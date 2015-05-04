@@ -19,9 +19,7 @@
 #include din2.qs
 #include MenuLoc.qs
 #include MenuMainLoc.qs
-#include oral.qs
-#include orgazm.qs
-#include preg.qs
+#include sex/__init__.qs
 #include starenie.qs
 #include stat.qs
 #include din_bad.qs
